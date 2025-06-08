@@ -182,7 +182,7 @@ h2 {
 }
 
 .row {
-    justify-content: space-between;
+    justify-content: space-around;
     display: flex;
     flex-wrap: wrap;
 }
@@ -407,15 +407,14 @@ h2 {
 
     .block {
         width: 100%;
-        margin-left: 20px;
     }
 
     .block img {
-        width: 90%;
+        width: 100%;
     }
 
     .card-body {
-        width: 90%;
+        width: 100%;
     }
 
     .footer {
